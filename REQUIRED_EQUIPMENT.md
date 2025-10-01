@@ -1,6 +1,6 @@
 # Required Equipment
 
-Helmet:  White is preferred by the club, a green "W" will be provided.   If you are going to buy a helmet for your youth player, please try your hardest for white.  GELL, the league the youth players participate in is cracking down on helmets.  Grey, black, or team colors are acceptable.  Please contact the club if you have any questions.  With different models, they typically come in an adjustable youth size and adjustable adult size.  A proper fit is most important.  For a new player who has never worn a helmet before it might be uncomfortable.  We suggest having them wear it around the house before attending an event or practice where they have to wear it.  The chin strap can also take some getting used to.
+Helmet:  White is required by the club, a green "W" will be provided. GELL, has specified rules for helmets [1]. Please contact a Board Member if you have any questions.  With different models, they typically come in an adjustable youth size and adjustable adult size.  A proper fit is most important.  For a new player who has never worn a helmet before it might be uncomfortable.  We suggest having them wear it around the house before attending an event or practice where they have to wear it.  The chin strap can also take some getting used to.
 
 Mouthpiece:  Personal preference.  Available in all sizes and shapes.  A tethered one allows it to be secured to the face mask (we see lots of left mouth pieces on the turf) but tend to be wider and cumbersome when trying to drink.  A slimmer non tethered one may allow for easier communication and hydration.  Almost all of them are moldable to your child's mouth.
 
@@ -20,3 +20,13 @@ The USA Lacrosse website is a great resource if you have any questions about equ
 www.usalacrosse.com/equipment
 
  If you have ANY questions about what equipment to get or where to get it, please contact the registrar at registrar@woodinvillelacrosse.com. 
+
+ [1] https://www.eastsidelacrosse.org/greatereastsidelacrosseleague/Coach
+
+## Conformance grace period
+
+All members of Woodinville Lacrosse club agree to the Code of Conduct when they sign up to play with the club. We also understand that rules for equipment conformance haven't been enforced uniformly. We strive to maintain consistent expectations. So, we will provide the following temporary mitigation during the grace period for bringing our members into conformance:
+* All lacrosse gear that does not conform to the club standards can continue to be used through the fall season only if the uncorforming elements can be covered. For example, you can use white atheletic tape to cover the unconforming elements up until the end of the grace period.
+* The club can provide rental equipment that conforms to the standard.
+
+This grace period will last until the first practice of the Spring 2026 lacrosse season. By this time, we expect our members to either purchase, or remediate the uncompliant elements of their equipment.
